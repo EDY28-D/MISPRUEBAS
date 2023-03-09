@@ -1,2 +1,2 @@
 <?php
-echo "Hola mundo \n ";
+echo "Hola edy como estas \n ";
